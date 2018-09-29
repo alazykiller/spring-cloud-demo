@@ -1,5 +1,6 @@
 package com.zz;
 
+import com.zz.filter.ErrorFilter;
 import com.zz.filter.LoginFilter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

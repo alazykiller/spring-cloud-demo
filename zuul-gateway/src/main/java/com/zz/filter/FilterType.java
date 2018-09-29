@@ -15,4 +15,7 @@ public class FilterType {
      * error：处理请求时发生错误时被调用
      */
     public static String PRE = "pre";
+    public static String ROUTING = "routing";
+    public static String POST = "post";
+    public static String ERROR = "error";
 }
